@@ -1,6 +1,6 @@
 [package]
 name = "pluma-plugin-trait"
-version = "1.0.0"
+version = "1.1.0"
 authors = ["Joseph R. Quinn <423821+quinnjr@users.noreply.github.com>"]
 edition = "2018"
 
