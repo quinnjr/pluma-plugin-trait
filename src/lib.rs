@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 
 pub trait PluMAPlugin {
-    fn input<'a>(&mut self, filepath: String);
+    fn input(&mut self, filepath: String);
     fn run(&mut self);
-    fn output<'a>(&mut self, filepath: String);
+    fn output(&mut self, filepath: String);
 }
